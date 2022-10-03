@@ -9,6 +9,7 @@ function isLampBroken() {
 function lampOn () {   
     if ( !isLampBroken ()) {
       lamp.src = "./img/ligada.jpg";
+      //oi teste
     }
 }
 
